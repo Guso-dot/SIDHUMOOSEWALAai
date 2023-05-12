@@ -9,3 +9,6 @@ This data model is a tribute to Sidhu Moosewala and has been created with utmost
 With AI Vocal Model - Sidhu Moosewala Edition, you can use the included config file to fine-tune the model to your specific needs. The config file provides parameters for input data, model architecture, and training settings, allowing you to customize the model based on your preferences and requirements.
 
 Please note that this data model is intended for educational and research purposes only. We hope that you will use it with respect and appreciate the legacy of Sidhu Moosewala.
+
+Download the Files from the link under
+https://drive.google.com/drive/folders/1DkJDOd3dHZjCjzoYMjDmm_NfRG9trbfB?usp=share_link
